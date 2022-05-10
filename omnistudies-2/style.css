@@ -1,0 +1,55 @@
+section {
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  
+}
+
+.title {
+  text-align: center;
+  font-size: 30px;
+}
+
+.subjectButton {
+  margin: 22px;
+  background-color:#5C7FA9;
+  color:white;
+  border-color: white;
+}
+
+.mathtitle {
+  text-align: center;
+  font-size: 25px;
+}
+
+.subjecttitle {
+  text-align: center;
+  font-size: 25px;
+}
+
+.subparttitle {
+  text-align: center;
+  font-size: 21px;
+  color: darkblue;
+}
+
+.twoparttitle {
+  text-align: center;
+  font-size: 18px;
+  color: darkblue;
+}
+
+.googleform {
+  text-align: center;
+}
+
+.threeparttitle {
+  text-align: center;
+  font-size: 17px;
+  color:darkblue;
+}
+
+input {
+  padding: 10px;
+}
+
